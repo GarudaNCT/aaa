@@ -5,7 +5,7 @@
 //  Created by Nguyễn Thành on 7/15/17.
 //  Copyright © 2017 Nguyễn Thành. All rights reserved.
 //
-// garuda nt
+
 import UIKit
 import CallKit
 import UserNotifications
